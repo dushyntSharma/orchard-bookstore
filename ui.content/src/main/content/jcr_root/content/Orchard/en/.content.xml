@@ -137,4 +137,8 @@
             </responsivegrid>
         </root>
     </jcr:content>
+    <ApacheHttpClient/>
+    <http-client/>
+    <OrchardSite/>
+    <Fullstack-Development/>
 </jcr:root>
